@@ -1,4 +1,6 @@
+voila
+ipywidgets
 numpy
 matplotlib
-ipywidgets
-voila
+scipy
+pykrige
